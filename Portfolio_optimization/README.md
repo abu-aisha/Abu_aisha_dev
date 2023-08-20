@@ -1,5 +1,5 @@
 # Portfolio Optimization 1
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abu-aisha/Python-Finance/HEAD?labpath=Portfolio_optimization%2FPort_optimization1.ipynb)
 
 ### Project brief
 
